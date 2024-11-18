@@ -1,0 +1,7 @@
+git clone ------------
+cd project 
+git branch
+git branch docker-compose-setup
+git branch 
+git checkout docker-compose-setup
+git branch 
